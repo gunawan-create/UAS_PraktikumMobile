@@ -1,6 +1,10 @@
 ## LAPORAN PRAKTIKUM PEMOGRAMAN MOBILE
 NAMA : ALI GUNAWAN | KELAS : TI.24.A3 | NIM : 312410400
 
+### Link Project 
+
+https://github.com/gunawan-create/projectnotes
+
 ### Step 1 | StoryBoard
 
 <img width="2000" height="1600" alt="storyboard apk catatan" src="https://github.com/user-attachments/assets/71520595-0511-48fa-95fa-9be36c00da69" />
