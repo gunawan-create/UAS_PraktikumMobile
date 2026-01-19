@@ -1,1 +1,7 @@
-# UAS_PraktikumMobile
+## LAPORAN PRAKTIKUM PEMOGRAMAN MOBILE
+NAMA : ALI GUNAWAN | KELAS : TI.24.A3 | NIM : 312410400
+
+## Step 1 | StoryBoard
+
+## Step 2 | Wireframe
+
