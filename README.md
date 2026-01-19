@@ -3,7 +3,7 @@ NAMA : ALI GUNAWAN | KELAS : TI.24.A3 | NIM : 312410400
 
 ### Step 1 | StoryBoard
 
-![Uploading storyboard apk catatan.png…]()
+<img width="2000" height="1600" alt="storyboard apk catatan" src="https://github.com/user-attachments/assets/71520595-0511-48fa-95fa-9be36c00da69" />
 
 ### Step 2 | Wireframe
 
