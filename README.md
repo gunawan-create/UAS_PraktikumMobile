@@ -10,8 +10,6 @@
 
 https://github.com/gunawan-create/projectnotes
 
----
-
 ### Step 1 | StoryBoard
 
 <img width="2000" height="1600" alt="storyboard apk catatan" src="https://github.com/user-attachments/assets/71520595-0511-48fa-95fa-9be36c00da69" />
@@ -33,11 +31,19 @@ https://github.com/gunawan-create/projectnotes
 
 https://github.com/user-attachments/assets/4caaaf4e-bf6f-4858-9579-2e3723c69e0f
 
+Berikut Link figmanya
+
+https://www.figma.com/design/nNL24xVAjPslQjF2TCvrJd/Projek-Aplikasi-Catatan?node-id=0-1&p=f&t=AHNxITnM0fQbPjZx-0
+
 ---
 
 ### Step 5 | Jadwal Timeline
 
 <img width="696" height="384" alt="image" src="https://github.com/user-attachments/assets/905ebcf2-9f4a-4a4a-a4af-370249edf86f" />
+
+Berikut Link clickup
+
+https://sharing.clickup.com/90181800993/gr/h/4-90187467278-23/679ee210f596858
 
 ---
 
@@ -49,9 +55,10 @@ https://github.com/user-attachments/assets/4caaaf4e-bf6f-4858-9579-2e3723c69e0f
 
 ### Step 7 | Video Prototype (UX) 
 
-[![Demo Aplikasi](https://img.youtube.com/vi/458Jfl3oMHQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=458Jfl3oMHQ)
+[![Demo Aplikasi](https://img.youtube.com/vi/458Jfl3oMHQ/hqdefault.jpg)](https://www.youtube.com/watch?v=458Jfl3oMHQ)
 
-Berikut Link Youtube;
+Berikut Link youtube
+
 https://youtu.be/458Jfl3oMHQ?si=ZSPAaNLo2cUokr_u
 
 
