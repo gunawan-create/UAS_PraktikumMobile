@@ -1,5 +1,6 @@
 ## LAPORAN PRAKTIKUM PEMOGRAMAN MOBILE
-NAMA : ALI GUNAWAN | KELAS : TI.24.A3 | NIM : 312410400
+**NAMA :** ALI GUNAWAN | **KELAS :** TI.24.A3 | **NIM :** 312410400
+**Mata Kuliah:** Pemrograman Mobile 1  | **Dosen Pengampu:** Donny Maulana, S.Kom., M.M.S.I.  
 
 ### Link Project Aplikasi Catatan Sederhana
 
@@ -18,7 +19,7 @@ https://github.com/gunawan-create/projectnotes
 
 ### Step 4 | Splash Screen
 
-<img width="538" height="405" alt="image" src="https://github.com/user-attachments/assets/cc8e3528-9111-4e50-9a73-c3cdc3aed475" />
+
 
 ### Step 5 | Jadwal Timeline
 
