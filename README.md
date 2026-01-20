@@ -6,8 +6,6 @@
 - **Mata Kuliah:** Pemrograman Mobile 1  
 - **Dosen Pengampu:** Donny Maulana, S.Kom., M.M.S.I.  
 
----
-
 ### Link Project Aplikasi Catatan Sederhana
 
 https://github.com/gunawan-create/projectnotes
@@ -48,3 +46,10 @@ https://github.com/user-attachments/assets/4caaaf4e-bf6f-4858-9579-2e3723c69e0f
 <img width="697" height="474" alt="image" src="https://github.com/user-attachments/assets/7d9d2284-03dc-42b6-84f8-6ba05e2b11aa" />
 
 ---
+
+### Step 7 | Video Prototype (UX) 
+
+https://youtu.be/458Jfl3oMHQ?si=ZSPAaNLo2cUokr_u
+
+---
+
