@@ -1,7 +1,7 @@
 ## LAPORAN PRAKTIKUM PEMOGRAMAN MOBILE
 NAMA : ALI GUNAWAN | KELAS : TI.24.A3 | NIM : 312410400
 
-### Link Project 
+### Link Project Aplikasi Catatan Sederhana
 
 https://github.com/gunawan-create/projectnotes
 
@@ -20,10 +20,10 @@ https://github.com/gunawan-create/projectnotes
 
 <img width="538" height="405" alt="image" src="https://github.com/user-attachments/assets/cc8e3528-9111-4e50-9a73-c3cdc3aed475" />
 
-### Step 5 | UI (User Interfance)
+### Step 5 | Jadwal Timeline
 
 <img width="696" height="384" alt="image" src="https://github.com/user-attachments/assets/905ebcf2-9f4a-4a4a-a4af-370249edf86f" />
 
-### Step 6 | Jadwal Timeline
+### Step 6 | UI (User Interfance) 
 
 <img width="697" height="474" alt="image" src="https://github.com/user-attachments/assets/7d9d2284-03dc-42b6-84f8-6ba05e2b11aa" />
