@@ -48,7 +48,9 @@ https://github.com/user-attachments/assets/4caaaf4e-bf6f-4858-9579-2e3723c69e0f
 ---
 
 ### Step 7 | Video Prototype (UX) 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/458Jfl3oMHQ?si=ZSPAaNLo2cUokr_u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Berikut Link Youtube;
 https://youtu.be/458Jfl3oMHQ?si=ZSPAaNLo2cUokr_u
 
 ---
