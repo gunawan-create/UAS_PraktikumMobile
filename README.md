@@ -1,10 +1,10 @@
 ## LAPORAN PRAKTIKUM PEMOGRAMAN MOBILE
 
-**NAMA :** ALI GUNAWAN 
-**KELAS :** TI.24.A3 
-**NIM :** 312410400
-**Mata Kuliah:** Pemrograman Mobile 1  
-**Dosen Pengampu:** Donny Maulana, S.Kom., M.M.S.I.  
+- **NAMA :** ALI GUNAWAN 
+- **KELAS :** TI.24.A3 
+- **NIM :** 312410400
+- **Mata Kuliah:** Pemrograman Mobile 1  
+- **Dosen Pengampu:** Donny Maulana, S.Kom., M.M.S.I.  
 
 ---
 
