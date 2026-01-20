@@ -5,6 +5,8 @@
 **Mata Kuliah:** Pemrograman Mobile 1  
 **Dosen Pengampu:** Donny Maulana, S.Kom., M.M.S.I.  
 
+---
+
 ### Link Project Aplikasi Catatan Sederhana
 
 https://github.com/gunawan-create/projectnotes
@@ -22,7 +24,7 @@ https://github.com/gunawan-create/projectnotes
 
 ### Step 4 | Splash Screen
 
-https://github.com/user-attachments/assets/4caaaf4e-bf6f-4858-9579-2e3723c69e0f>
+https://github.com/user-attachments/assets/4caaaf4e-bf6f-4858-9579-2e3723c69e0f
 
 ### Step 5 | Jadwal Timeline
 
