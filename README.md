@@ -19,7 +19,7 @@ https://github.com/gunawan-create/projectnotes
 
 ### Step 4 | Splash Screen
 
-https://github.com/gunawan-create/UAS_PraktikumMobile/blob/39f72c48c26f97a6568f93955f22c0d229cce19c/screenshot/Animasi%20Splash%20Screen.mp4
+https://github.com/gunawan-create/UAS_PraktikumMobile/blob/main/screenshot/Animasi%20Splash%20Screen.mp4
 
 ### Step 5 | Jadwal Timeline
 
