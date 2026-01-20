@@ -21,9 +21,7 @@ https://github.com/gunawan-create/projectnotes
 <img width="799" height="361" alt="image" src="https://github.com/user-attachments/assets/12d39cdb-8240-4390-a471-77408bf7d022" />
 
 ### Step 4 | Splash Screen
-
-https://github.com/gunawan-create/UAS_PraktikumMobile/blob/main/screenshot/Animasi%20Splash%20Screen.mp4
-
+(https://github.com/user-attachments/assets/9be8c74a-7ca1-4dcc-beb4-a2b2589e55af)
 ### Step 5 | Jadwal Timeline
 
 <img width="696" height="384" alt="image" src="https://github.com/user-attachments/assets/905ebcf2-9f4a-4a4a-a4af-370249edf86f" />
